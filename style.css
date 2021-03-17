@@ -1,0 +1,67 @@
+
+
+
+.navbar-light .navbar-nav .nav-link{
+    color:black
+    
+    
+}
+
+
+
+
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #ff1f77;
+    font-weight: bold;
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link{
+    color: #ffc221;
+    
+    
+}
+
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link:hover{
+    color: #ff1f77;
+}
+
+.bg-light{
+    background-color: #dbdbdb !important;
+   
+}
+
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 12px;
+}
+
+
+
+
+h1{
+    color: black;
+}
+
+.price{
+    color: #ff1f77;
+}
+
+.button-now{
+    padding: 5px 25px;
+    border-radius: 7px;
+    background-image: linear-gradient(to bottom, #ff589b 0%,  #ff136f 100%);
+    color: #fff;
+    border:none;
+    font-weight: bold;
+    margin-top: 7px;
+}
+   
+.carousel-item{
+    padding: 20px 40px;
+}
+
+
+.container{
+   margin-bottom: 90px;
+}
