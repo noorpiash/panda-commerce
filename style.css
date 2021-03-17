@@ -1,5 +1,9 @@
 
-
+.container{
+    margin-bottom: 90px;
+ }
+ 
+ 
 
 .navbar-light .navbar-nav .nav-link{
     color:black
@@ -61,7 +65,31 @@ h1{
     padding: 20px 40px;
 }
 
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    
+}
 
-.container{
-   margin-bottom: 90px;
+
+.watch1, .bag1, .shoes1{
+    color: #fff;
+}
+
+
+.cat1{
+    background-color: #ffc221;
+    color: #fff;
+    border-radius: 12px;
+}
+
+.cat2{
+    background-color: #ff1f77;
+    color: #fff;
+    border-radius: 12px;
+}
+
+.cat3{
+    background-color: rgb(37, 0, 250) ;
+    color: #fff;
+    border-radius: 12px;
 }
