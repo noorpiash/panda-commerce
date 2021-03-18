@@ -1,7 +1,7 @@
-
 .container{
     margin-bottom: 90px;
- }
+    
+}
  
  
 
@@ -52,7 +52,7 @@ h1{
 }
 
 .button-now{
-    padding: 5px 25px;
+    padding: 7px 25px;
     border-radius: 7px;
     background-image: linear-gradient(to bottom, #ff589b 0%,  #ff136f 100%);
     color: #fff;
@@ -92,4 +92,18 @@ h1{
     background-color: rgb(37, 0, 250) ;
     color: #fff;
     border-radius: 12px;
+}
+
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 12px;
+
+}
+
+footer{
+   
+   text-align: center;
+   
 }
