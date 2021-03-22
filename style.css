@@ -107,3 +107,12 @@ footer{
    text-align: center;
    
 }
+
+
+#contactus{
+    height: 300px;
+}
+
+#contactus h6{
+    color: grey
+}
